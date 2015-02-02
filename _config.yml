@@ -1,5 +1,5 @@
 # Site settings
-title: Jongea Test
+title: Mom’s Bell
 email: momsbell.dev@gmail.com
 description: "Momsbell home"
 
@@ -11,38 +11,26 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Jongkwan Youn
-  pic: 2
-  position: Project Manager
+- name: 손목시계·목걸이형… 웨어러블 기기로 내 아이 안전 지킨다
+  pic: 1
+  position: 장주영군이 유치원 수업을 마치고 나오면서 손목시계 형태의 웨어러블 기기 ‘키즈온’으로 엄마와 통화하고 있다(왼쪽 사진). 오른쪽 사진은 엄마 채미희씨가 집에서 스마트폰 앱으로 아이의 위치를 확인하고 있는 모습. LG유플러스 제공
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: stack-overflow
-      url: #
+      url: http://news.kmib.co.kr/article/view.asp?arcid=0922826321&code=11131100&sid1=soc
 
-- name: Larry Parker
+- name: 서천 한 초등 병설유치원생 통학버스에 3시간 갇혀
   pic: 2
-  position: Lead Marketer
+  position: 병설유치원 원아가 통학버스에 약 3시간 동안 갇히는 사고가 발생하여 파문이 일고 있다. 당일 사고 발생 시간대에 이 유치원 원감은 상급기관의 공식적인 요청에 의해 타 병설유치원 안전관리
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: stack-overflow
+      url: http://www.daejonilbo.com/news/newsitem.asp?pk_no=1118097
 
-- name: Diana Petersen
+- name: 어린이통학버스 제도 바뀝니다
   pic: 3
-  position: Lead Developer
+  position: 정부에서는 내년 1월 29일부터 도로교통법을 개정했다. 그 내용으로는 보호자 동승 의무화 및 통학버스 도색표시등 안전 기준을 강화하도록 한다.
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: stack-overflow
+      url: http://www.daejonilbo.com/news/newsitem.asp?pk_no=1118097
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
